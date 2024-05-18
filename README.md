@@ -23,12 +23,6 @@
     <a href="https://github.com/zenitheesc/flight-data-analysis/commits/main">
     <img src="https://img.shields.io/github/last-commit/zenitheesc/flight-data-analysis?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/zenitheesc/flight-data-analysis/issues">
-    <img src="https://img.shields.io/github/issues-raw/zenitheesc/flight-data-analysis?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/zenitheesc/flight-data-analysis/pulls">
-    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/flight-data-analysi?style=for-the-badge">
-    </a>
 </p>
 
 <p align="center">
