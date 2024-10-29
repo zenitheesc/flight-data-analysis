@@ -36,7 +36,7 @@ Made using `Python 3` with the `json`, `pandas` and `os` packages.
 
 ## Steps to run and debug
 
-On linux, run the command `python3 Tabler.py` in the main directory.
+On linux, run the command `python3 Tabler.py` in the same directory as the json files given by sondehub.
 
 ---
 
